@@ -1,0 +1,21 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/axel.garreau/Desktop/GD2_Axel_UE_CoursAlgo/GD2_Garreau_Axel_UE_CoursAlgo/MyProject/Content/ThirdPerson/Blueprints/BP_ThirdPersonGameMode.uasset",
+				"C:/Users/axel.garreau/Desktop/GD2_Axel_UE_CoursAlgo/GD2_Garreau_Axel_UE_CoursAlgo/MyProject/Content/ThirdPerson/Blueprints/BP_Character.uasset",
+				"C:/Users/axel.garreau/Desktop/GD2_Axel_UE_CoursAlgo/GD2_Garreau_Axel_UE_CoursAlgo/MyProject/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/Users/axel.garreau/Desktop/GD2_Axel_UE_CoursAlgo/GD2_Garreau_Axel_UE_CoursAlgo/MyProject/Content/Items/BP_Switch.uasset",
+				"C:/Users/axel.garreau/Desktop/GD2_Axel_UE_CoursAlgo/GD2_Garreau_Axel_UE_CoursAlgo/MyProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/DE/SWSI13675DVYIZ0N4NF7Y3.uasset",
+				"C:/Users/axel.garreau/Desktop/GD2_Axel_UE_CoursAlgo/GD2_Garreau_Axel_UE_CoursAlgo/MyProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/1O/3G27MYXHFL6F4K5QTMERVH.uasset",
+				"C:/Users/axel.garreau/Desktop/GD2_Axel_UE_CoursAlgo/GD2_Garreau_Axel_UE_CoursAlgo/MyProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/7T/TMBU8A4KDA08LIR5NTWONV.uasset",
+				"C:/Users/axel.garreau/Desktop/GD2_Axel_UE_CoursAlgo/GD2_Garreau_Axel_UE_CoursAlgo/MyProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/3F/1T4R3K3IOOPUQMXVCUCG0J.uasset",
+				"C:/Users/axel.garreau/Desktop/GD2_Axel_UE_CoursAlgo/GD2_Garreau_Axel_UE_CoursAlgo/MyProject/Content/Items/BP_Doors.uasset",
+				"C:/Users/axel.garreau/Desktop/GD2_Axel_UE_CoursAlgo/GD2_Garreau_Axel_UE_CoursAlgo/MyProject/Content/Items/BP_Light.uasset"
+			]
+		}
+	]
+}
